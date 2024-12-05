@@ -1,0 +1,36 @@
+name: movie_recommendation_app
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'  # Gunakan rentang yang mendukung null safety
+
+dependencies:
+  flutter:
+    sdk: flutter
+  #flutter_config: ^2.0.2  # Versi yang mendukung null safety
+  cupertino_icons: ^1.0.8
+  http: ^0.13.5
+  flutter_dotenv: ^5.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/levels.jpg
+    - assets/wicked.jpg
+    - assets/senna.jpg
+    - assets/moana2.jpg
+    - assets/logo.png
+    - assets/action_icon.png
+    - assets/comedy_icon.png
+    - assets/drama_icon.png
+    - assets/science_icon.png
