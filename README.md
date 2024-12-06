@@ -24,18 +24,21 @@ The application offers several key features:
 
 ### Welcome Screen
 ![Welcome Screen](assets/welcome_screen.jpg)
+###
 *Description: The welcome screen displays a greeting message and a search bar for users to find movies easily.*
 ### Categories Section
 *Description: This section shows different movie genres that users can browse.*
 
 ### Popular Movies
 ![Popular Movies](assets/categories_section.jpg)
+###
 *Description: The popular movies section lists films that are trending and widely watched.*
 ### Latest Movies
 *Description: Shows the most recent films that have been released.*
 
 ### Movie Details
 ![Movie Details](assets/movie_details.jpg)
+###
 *Description: This page provides in-depth information about a specific movie, including its title, genres, release date, rating, and a brief overview.*
 
 ## API References
